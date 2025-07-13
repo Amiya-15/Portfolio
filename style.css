@@ -402,7 +402,7 @@ cursor: pointer;
 /*----------------CSS for small screen----------------*/
 
 
-nav .fa-solid{
+nav i{
     display: none;
 }
     
@@ -417,7 +417,7 @@ nav .fa-solid{
     .header-text h1{
         font-size:30px;
     }
-    nav .fa-solid{
+    nav i{
         display: none;
         font-size: 40px;
     }
@@ -436,7 +436,7 @@ nav .fa-solid{
         display: block;
         margin: 25px;
     }
-    nav ul .fa-solid{
+    nav ul i{
         position: absolute;
         top: 25px;
         left: 25px;
